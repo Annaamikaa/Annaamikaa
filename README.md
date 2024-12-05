@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Annaamikaa
-- 👀 this is my projects 
+- Welcome to my GitHub profile!
+- I'm a passionate Data Analyst and Tech Enthusiast with a strong interest in exploring data, building insightful visualizations, and solving problems with machine learning and programming.
+- I enjoy turning complex datasets into actionable insights that drive meaningful decisions.
 - 📫 How to reach me anusarkarrr02@gmail.com
 
 <!---
